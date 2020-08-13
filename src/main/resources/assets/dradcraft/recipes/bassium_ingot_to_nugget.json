@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "dradcraft:bassium_ingot"
+        }
+    ],
+    "result": {
+        "item": "dradcraft:bassium_nugget",
+        "count": 9
+    }
+}

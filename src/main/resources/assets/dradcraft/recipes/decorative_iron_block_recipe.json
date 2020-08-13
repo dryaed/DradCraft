@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gig",
+        "iii",
+        "gig"
+    ],
+    "key": {
+        "g": {
+            "item": "dradcraft:gold_plate"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "dradcraft:decorative_iron_block",
+        "count": 4
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "dradcraft:bassium_ingot"
+        }
+    },
+    "result": {
+        "item": "dradcraft:bassium_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "i": {
+            "item": "dradcraft:bassium_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "dradcraft:bassium_shovel",
+        "count": 1
+    }
+}

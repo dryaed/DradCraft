@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "dradcraft:blocks/decorative_iron_block"
+   }
+}

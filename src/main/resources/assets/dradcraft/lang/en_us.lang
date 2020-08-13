@@ -1,0 +1,25 @@
+
+// Items
+item.iron_plate.name=Iron Plate
+item.gold_plate.name=Gold Plate
+item.bassium_ingot.name=Bassium Ingot
+item.bassium_nugget.name=Bassium Nugget
+
+
+// Tools
+item.bassium_sword.name=Bassium Sword
+item.bassium_spade.name=Bassium Shovel
+item.bassium_pickaxe.name=Bassium Pickaxe
+item.bassium_axe.name=Bassium Axe
+item.bassium_hoe.name=Bassium Hoe
+
+//Armor
+item.bassium_helmet.name=Bassium Helmet
+item.bassium_chestplate.name=Bassium Chestplate
+item.bassium_leggings.name=Bassium Leggings
+item.bassium_boots.name=Bassium Boots
+
+// Blocks
+tile.decorative_iron_block.name=Decorative Iron Block
+tile.bassium_ore.name=Bassium Ore
+tile.bassium_block.name=Bassium Block

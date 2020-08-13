@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "ggg",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "dradcraft:bassium_ingot"
+        }
+    },
+    "result": {
+        "item": "dradcraft:bassium_block",
+        "count": 1
+    }
+}
